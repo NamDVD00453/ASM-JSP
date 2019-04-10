@@ -1,0 +1,62 @@
+2019-54-10 06:54:51 - LOG : File log.txt was created!
+2019-54-10 06:54:51 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-54-10 06:54:52 - LOG : File log.txt has exists ! Ready to write new log !
+2019-54-10 06:54:52 - LOG : Connection to host success !
+2019-54-10 06:54:53 - LOG : File log.txt has exists ! Ready to write new log !
+2019-54-10 06:54:53 - LOG : Connection to database success !
+2019-55-10 06:55:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:15 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-55-10 06:55:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:15 - LOG : Connection to host success !
+2019-55-10 06:55:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:15 - LOG : Connection to database success !
+2019-55-10 06:55:16 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:16 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-55-10 06:55:16 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:16 - LOG : Connection to host success !
+2019-55-10 06:55:16 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:16 - LOG : Connection to database success !
+2019-55-10 06:55:16 - LOG : File log.txt has exists ! Ready to write new log !
+2019-55-10 06:55:16 - LOG : Add user Admin success!
+2019-13-10 09:13:14 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:14 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : Connection to host success !
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : Connection to database success !
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : Connection to host success !
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : Connection to database success !
+2019-13-10 09:13:15 - LOG : File log.txt has exists ! Ready to write new log !
+2019-13-10 09:13:15 - LOG : Add user Admin success!
+2019-15-10 09:15:04 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:04 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : Connection to host success !
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : Connection to database success !
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : Connection to host success !
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : Connection to database success !
+2019-15-10 09:15:05 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:05 - LOG : Add user Admin success!
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : Connection to host success !
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : Connection to database success !
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : jdbc:mysql://localhost:3306/assignment / root / 
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : Connection to host success !
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : Connection to database success !
+2019-15-10 09:15:09 - LOG : File log.txt has exists ! Ready to write new log !
+2019-15-10 09:15:09 - LOG : Add user Admin success!
